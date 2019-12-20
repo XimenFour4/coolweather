@@ -28,7 +28,7 @@
         android:layout_gravity="center"
         android:layout_weight="1"
         android:gravity="right"
-        android:text="#fff" />
+        android:textColor="#fff" />
 
     <TextView
         android:id="@+id/min_text"
